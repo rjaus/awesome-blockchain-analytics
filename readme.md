@@ -27,7 +27,7 @@ An awesome list for blockchain analytics tools.
 ## Contents
 
 - [Featured (new releases)](#featured-new-releases)
-- [Section 1](#section-1)
+- [List](#list)
 - [Follow](#follow)
 
 <!-- CONTENT -->
@@ -36,7 +36,7 @@ An awesome list for blockchain analytics tools.
 
 
 
-## Section 1
+## List
 
 - [Dune Analytics](https://dune.com/) - Write SQL over blockchain data to generate public dashboards. Example: [4pool](https://dune.com/mhonkasalo/4pool-Curve-FRAXUSTUSDCUSDT)
 - [Dappquery](https://dappquery.com/) - Example: [SpiritSwap](https://dappquery.com/dapp/spiritswap-10113)
