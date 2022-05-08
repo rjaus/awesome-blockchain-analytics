@@ -1,13 +1,14 @@
 <div align="center">
 
 <!-- title -->
-
+# Awesome Blockchain Analytics
+  
 <!--lint ignore no-dead-urls-->
-# Awesome List Template [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/<YOUR GITHUB USER>/<YOUR REPO>/actions/workflows/lint.yaml/badge.svg)](https://github.com/<YOURE GITHUB USER>/<YOUR REPO>/actions/workflows/lint.yaml)
+# Awesome List Template [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/rjaus/awesome-blockchain-analytics/actions/workflows/lint.yaml/badge.svg)](https://github.com/rjaus/awesome-blockchain-analytics/actions/workflows/lint.yaml)
 
 <!-- subtitle -->
 
-A template for an awesome list with required conventions out of the box!
+## Awesome blockchain analytics tools
 
 <!-- image -->
 
@@ -17,7 +18,7 @@ A template for an awesome list with required conventions out of the box!
 
 <!-- description -->
 
-A one line description of the product or tool. See [awesome-firebase](https://github.com/jthegedus/awesome-firebase) for an example.
+An awesome list for blockchain analytics tools.
 
 </div>
 
@@ -33,11 +34,14 @@ A one line description of the product or tool. See [awesome-firebase](https://gi
 
 ## Featured (new releases)
 
-- [Apple](https://apple.com) - Apple as a placeholder.
+
 
 ## Section 1
 
-- [Microsoft](https://www.microsoft.com/) - Microsoft as an example.
+- [Dune Analytics](https://dune.com/) - Write SQL over blockchain data to generate public dashboards. Example: [4pool](https://dune.com/mhonkasalo/4pool-Curve-FRAXUSTUSDCUSDT)
+- [Dappquery](https://dappquery.com/) - Example: [SpiritSwap](https://dappquery.com/dapp/spiritswap-10113)
+- [Token Terminal](https://tokenterminal.com/) - Pre-configured analytics over many public blockchains & dapps.
+- 
 
 <!-- END CONTENT -->
 
@@ -53,4 +57,4 @@ Who else should we be following!?
 
 ### Contributors
 
-<!-- [Thanks goes to these contributors](https://github.com/TODO_YOUR_REPO_NAME_HERE/graphs/contributors)! -->
+<!-- [Thanks goes to these contributors](https://github.com/rjaus/awesome-blockchain-analytics/graphs/contributors)! -->
