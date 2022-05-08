@@ -27,7 +27,8 @@ An awesome list for blockchain analytics tools.
 ## Contents
 
 - [Featured (new releases)](#featured-new-releases)
-- [List](#list)
+- [Blockchain Analytics](#list)
+- [Dapp Analytics](#dapp-analytics)
 - [Follow](#follow)
 
 <!-- CONTENT -->
@@ -41,7 +42,10 @@ An awesome list for blockchain analytics tools.
 - [Dune Analytics](https://dune.com/) - Write SQL over blockchain data to generate public dashboards. Example: [4pool](https://dune.com/mhonkasalo/4pool-Curve-FRAXUSTUSDCUSDT)
 - [Dappquery](https://dappquery.com/) - Example: [SpiritSwap](https://dappquery.com/dapp/spiritswap-10113)
 - [Token Terminal](https://tokenterminal.com/) - Pre-configured analytics over many public blockchains & dapps.
-- 
+
+
+## Dapp Analytics
+- [Chainbeat](https://chainbeat.io/) - Analytics for your dapps.  A google analytics alternative build specifically for browser based dapps.
 
 <!-- END CONTENT -->
 
